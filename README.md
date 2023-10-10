@@ -23,7 +23,7 @@
 
 - 🤝 I’m looking for help with **Accident Monitoring Smart-Application**
 
-- 👨‍💻 All of my projects are available at [https://kinleyrabgay.vercel.app/](https://kinleyrabgay.vercel.app/)
+<!--- 👨‍💻 All of my projects are available at [https://kinleyrabgay.vercel.app/](https://kinleyrabgay.vercel.app/) --->
 
 - 💬 Ask me about **Nextjs, Flutter and Angular**
 
