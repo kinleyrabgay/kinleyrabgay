@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @kinleyrabgay
+- 👋 Hi, I’m Kinley Rabgay
 - 👀 I’m interested in application and system development, as well as machine learning & AI.
 - 🚀 Currently, I'm in the process of learning Ruby and mastering Bloc's Clean Architecture Design.
 - 🌱 I’m eager to collaborate on exciting open-source projects that align with my interests and expertise.
 - 📫 You can reach me via:
-    - GitHub: [kinleyrabgay](https://github.com/kinleyrabgay)
+    - GitHub: [Kinley Rabgay](https://github.com/kinleyrabgay)
     - LinkedIn: [Kinley Rabgay](https://www.linkedin.com/in/kinley-rabgay-9352ab26b/)
     - Email: fsd.rabgay@gmail.com
 <!---
