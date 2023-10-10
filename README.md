@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kinleyrabgay
-- 👀 I’m interested in application and system development, as well as machine learning & AI. Currently, I'm in the process of learning Ruby and mastering Bloc's Clean Architecture Design.
+- 👀 I’m interested in application and system development, as well as machine learning & AI.
+- 🚀 Currently, I'm in the process of learning Ruby and mastering Bloc's Clean Architecture Design.
 - 🌱 I’m eager to collaborate on exciting open-source projects that align with my interests and expertise.
 - 📫 You can reach me via:
     - GitHub: [kinleyrabgay](https://github.com/kinleyrabgay)
