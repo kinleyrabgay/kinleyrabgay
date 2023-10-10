@@ -33,7 +33,7 @@
 <p align="left">
 <a href="https://instagram.com/__rabgay.kinley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__rabgay.kinley" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kinley.rabgay.3956/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="__rabgay.kinley" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kinley-rabgay-9352ab26b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="__rabgay.kinley" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kinley-rabgay-9352ab26b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinley-rabgay-9352ab26b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
