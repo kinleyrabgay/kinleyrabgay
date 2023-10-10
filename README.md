@@ -11,9 +11,9 @@
 <h1 align="center">Hi 👋, I'm Kinley Rabgay</h1>
 <h3 align="center">A passionate front-end developer from Bhutan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kinleyrabgay&label=Profile%20views&color=0e75b6&style=flat" alt="kinleyrabgay" /> </p>
+<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=kinleyrabgay&label=Profile%20views&color=0e75b6&style=flat" alt="kinleyrabgay" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinleyrabgay" alt="kinleyrabgay" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinleyrabgay" alt="kinleyrabgay" /></a> </p> --->
 
 - 🔭 I’m currently working on **DAS**
 
