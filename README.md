@@ -6,10 +6,10 @@
 - 📫 You can reach me via:
     - GitHub: [Kinley Rabgay](https://github.com/kinleyrabgay)
     - LinkedIn: [Kinley Rabgay](https://www.linkedin.com/in/kinley-rabgay-9352ab26b/)
-    - Email: fsd.rabgay@gmail.com --->
+    - Email: fsd.rabgay@gmail.com 
 
 <h1 align="center">Hi 👋, I'm Kinley Rabgay</h1>
-<h3 align="center">A passionate full-stack developer from Bhutan</h3>
+<h3 align="center">A passionate full-stack developer from Bhutan</h3> --->
 
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=kinleyrabgay&label=Profile%20views&color=0e75b6&style=flat" alt="kinleyrabgay" /> </p>
 
