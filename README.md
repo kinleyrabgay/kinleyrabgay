@@ -1,7 +1,7 @@
 <!---
 - 👋 Hi, I’m Kinley Rabgay
 - 👀 I’m interested in application and system development, as well as machine learning & AI.
-- 🚀 Currently, I'm in the process of learning Ruby and mastering Bloc's Clean Architecture Design.
+- 🚀 The story of success is the story of persistence!
 - 🌱 I’m eager to collaborate on exciting open-source projects that align with my interests and expertise.
 - 📫 You can reach me via:
     - GitHub: [Kinley Rabgay](https://github.com/kinleyrabgay)
@@ -15,17 +15,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinleyrabgay" alt="kinleyrabgay" /></a> </p> --->
 
-- 🔭 I’m currently working on **DAS**
-
-- 🌱 I’m currently learning **Ruby**
-
-- 👯 I’m looking to collaborate on **exciting open-source projects that align with my interests and expertise.**
-
-- 🤝 I’m looking for help with **Accident Monitoring Smart-Application**
+- 🚀 The story of success is the story of persistence!
 
 - 👨‍💻 All of my projects are available at [https://kinleyrabgay.vercel.app/](https://kinleyrabgay.vercel.app/) 
-
-- 💬 Ask me about **Nextjs, Flutter and Angular**
 
 - 📫 How to reach me **fsd.rabgay@gmail.com**
 
