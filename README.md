@@ -17,7 +17,7 @@
 
 - 🚀 The story of success is the story of persistence!
   
-- 💪 Currently working on BhutanHub
+- 💪 Currently working on BhutanHub & GameFuelX
 
 - 👨‍💻 All of my projects are available at [https://kinleyrabgay.vercel.app/](https://kinleyrabgay.vercel.app/) 
 
