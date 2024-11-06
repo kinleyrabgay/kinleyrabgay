@@ -20,6 +20,8 @@
   
 - 💪 Currently working on BhutanHub & GameFuelX
 
+- 🌟 Active contributor at [EunoiaBT](https://github.com/EunoiaBT)
+
 - 👨‍💻 All of my projects are available at [https://kinleyrabgay.vercel.app/](https://kinleyrabgay.vercel.app/) 
 
 - 📫 How to reach me **fsd.rabgay@gmail.com**
