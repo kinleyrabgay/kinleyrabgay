@@ -2,6 +2,7 @@
 - 👋 Hi, I’m Kinley Rabgay
 - 👀 I’m interested in application and system development, as well as machine learning & AI.
 - 🚀 The story of success is the story of persistence!
+- ➕ Active contributor at EunoiaBT
 - 🌱 I’m eager to collaborate on exciting open-source projects that align with my interests and expertise.
 - 📫 You can reach me via:
     - GitHub: [Kinley Rabgay](https://github.com/kinleyrabgay)
