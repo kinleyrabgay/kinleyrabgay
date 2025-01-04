@@ -18,7 +18,7 @@
 
 - 🚀 The story of success is the story of persistence!
   
-- 💪 Currently working on Busify & GameFuelX & Careerio
+- 💪 Currently working on Busify, GameFuelX & Careerio
 
 - 🌟 Active contributor at [EunoiaBT](https://github.com/EunoiaBT)
 
