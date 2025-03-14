@@ -18,9 +18,7 @@
 
 - 🚀 The story of success is the story of persistence!
   
-- 💪 Currently working on ByteEats, GameFuelX & Careerio
-
-- 🌟 Active contributor at [EunoiaBT](https://github.com/EunoiaBT)
+- 💪 Currently working on ByteEats & ngx-translate-db
 
 - 👨‍💻 All of my projects are available at [https://kinleyrabgay.vercel.app/](https://kinleyrabgay.vercel.app/) 
 
