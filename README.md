@@ -18,7 +18,7 @@
 
 - 🚀 The story of success is the story of persistence!
   
-- 💪 Currently working on NgShad, ByteEats & ngx-translate-db
+- 💪 Currently working on NgShad, ByteEats, ng-smooth-carousel & ngx-translate-db
 
 - 👨‍💻 All of my projects are available at [https://kinleyrabgay.vercel.app/](https://kinleyrabgay.vercel.app/) 
 
