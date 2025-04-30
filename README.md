@@ -18,7 +18,7 @@
 
 - 🚀 The story of success is the story of persistence!
   
-- 💪 Currently working on NgShad, ByteEats & [NgFly](https://github.com/ngfly)
+- 💪 Currently working on [NgShad](https://github.com/ngshad), ByteEats & [NgFly](https://github.com/ngfly)
 
 - 👨‍💻 All of my projects are available at [https://kinleyrabgay.vercel.app/](https://kinleyrabgay.vercel.app/) 
 
