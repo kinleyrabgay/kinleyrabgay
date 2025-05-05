@@ -47,7 +47,7 @@ I'm a full-stack developer passionate about building **clean**, **scalable**, an
 - **Authentication & Role-based Access Control**
   
 ### ✅ Other
-- tRPC
+- t3-Stack
 - Django
 
 ### 🚀 Deployment & Cloud
