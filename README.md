@@ -2,7 +2,7 @@
 
 🚀 *"The story of success is the story of persistence!"*
 
-I'm a full-stack developer passionate about building clean, scalable, and efficient applications — from beautiful Angular/React frontends to powerful NestJS/Go/NodeJS backends, and elegant [Flutter/React Native] mobile apps. I focus on creating intuitive user experiences and robust architectures that scale.
+I'm a full-stack developer passionate about building **clean**, **scalable**, and **efficient** applications — from beautiful **Angular / React** frontends to powerful **NestJS / Go / Node.js** backends, and elegant **Flutter / React Native** mobile apps. I focus on creating intuitive user experiences and robust architectures that scale.
 
 ---
 
@@ -19,6 +19,7 @@ I'm a full-stack developer passionate about building clean, scalable, and effici
 ### 🧑‍💻 Frontend
 
 - **Angular**
+- **React**
 - **Tailwind CSS**
 - **TypeScript**
 - **RxJS**
@@ -28,6 +29,7 @@ I'm a full-stack developer passionate about building clean, scalable, and effici
 ### 📱 Mobile
 
 - **Flutter**
+- **React Native**
 - **Dart**
 - **Flutter BLoC**
 - **Reactive Forms**
@@ -36,10 +38,14 @@ I'm a full-stack developer passionate about building clean, scalable, and effici
 ### 🔙 Backend
 
 - **NestJS**
+- **Go**
+- **NodeJS**
 - **Firebase (Firestore / Realtime DB)**
+- **Appwrite**
 - **GraphQL (Apollo Server)**
 - **REST APIs (v1, v2, v3 structure)**
 - **Dio (Flutter HTTP client)**
+- **SQL**
 - **Authentication & Role-based Access Control**
 
 ### 🚀 Deployment & Cloud
@@ -52,11 +58,10 @@ I'm a full-stack developer passionate about building clean, scalable, and effici
 ### 🔧 Dev Tools & Misc
 
 - **ESLint + Prettier**
-- **Internationalization (i18n with 4+ languages)**
+- **Internationalization**
 - **Form Builders & Dynamic UI**
 - **Responsive Design Systems**
 - **CI/CD Pipelines**
-- **SIM Card Attribute Management**
 
 ---
 
