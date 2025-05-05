@@ -2,7 +2,7 @@
 
 🚀 *"The story of success is the story of persistence!"*
 
-I'm a full-stack developer passionate about building clean, scalable, and efficient applications — from beautiful Angular frontends to powerful NestJS backends, and elegant Flutter mobile apps. I focus on creating intuitive user experiences and robust architectures that scale.
+I'm a full-stack developer passionate about building clean, scalable, and efficient applications — from beautiful Angular/React frontends to powerful NestJS/Go/NodeJS backends, and elegant [Flutter/React Native] mobile apps. I focus on creating intuitive user experiences and robust architectures that scale.
 
 ---
 
