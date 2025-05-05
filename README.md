@@ -1,14 +1,16 @@
 # 👋 Hi there, I'm Kinley Rabgay!
 
-🚀 *"The story of success is the story of persistence!"*
-
 I'm a full-stack developer passionate about building **clean**, **scalable**, and **efficient** applications — from beautiful **Angular / React** frontends to powerful **NestJS / Go / Node.js** backends, and elegant **Flutter / React Native** mobile apps. I focus on creating intuitive user experiences and robust architectures that scale.
+
+---
 
 ## 💪 Currently working on
 
 - **NgShad** – Angular + Tailwind UI components
 - **ByteEats** – Food ordering experience redefined
 - **NgFly** – Lightweight design system for Angular apps
+
+---
 
 ## 🛠️ Tech Stack I Love Working With
 
