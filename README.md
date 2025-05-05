@@ -16,7 +16,7 @@ I'm a full-stack developer passionate about building **clean**, **scalable**, an
 
 ## 🛠️ Tech Stack I Love Working With
 
-### 🧑‍💻 Frontend
+### 🧑‍💻 Frontend - Web
 
 - **Angular**
 - **React**
@@ -26,7 +26,7 @@ I'm a full-stack developer passionate about building **clean**, **scalable**, an
 - **NgRx / Signals**
 - **PrimeNG**
 
-### 📱 Mobile
+### 📱 Frontend - Mobile
 
 - **Flutter**
 - **React Native**
@@ -71,4 +71,4 @@ I'm a full-stack developer passionate about building **clean**, **scalable**, an
 
 ## 📫 Get in Touch
 
-📧 **Email:** fsd.rabgay@gmail.com
+📧 **Email:** [Email](fsd.rabgay@gmail.com)
