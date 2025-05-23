@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kinley Rabgay!
+# 👋 Hi there, I'm Kinley Rabgay
 
 I'm a full-stack developer passionate about building **clean**, **scalable**, and **efficient** applications — from beautiful **Angular / React** frontends to powerful **NestJS / Go / Node.js** backends, and elegant **Flutter / React Native** mobile apps. I focus on creating intuitive user experiences and robust architectures that scale.
 
