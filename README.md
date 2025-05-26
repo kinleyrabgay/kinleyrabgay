@@ -30,6 +30,9 @@ I'm a full-stack developer passionate about building **clean**, **scalable**, an
 - **React Native**
 - **Dart**
 - **Flutter BLoC**
+- **Flutter Riverpod**
+- **Flutter Provider**
+- **Flutter GetX**
 - **Reactive Forms**
 - **Multi-step Workflows**
 
