@@ -6,9 +6,10 @@ I'm a full-stack developer passionate about building **clean**, **scalable**, an
 
 ## 💪 Currently working on
 
-- **NgShad** – Angular + Tailwind UI components
+- **NgShad** – Lightweight design system for Angular apps
 - **ByteEats** – Food ordering experience redefined
-- **NgFly** – Lightweight design system for Angular apps
+- **NgFly** – Builds packages that redefines performance
+- **Sunrise Partner Portal** - B2B platform
 
 ---
 
