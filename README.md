@@ -9,6 +9,7 @@ I'm a full-stack developer passionate about building **clean**, **scalable**, an
 - **NgShad** – Lightweight design system for Angular apps
 - **ByteEats** – Food ordering experience redefined
 - **NgFly** – Builds packages that redefines performance
+- **FlutterPack** – Builds packages that redefines performance flutter app
 - **Sunrise Partner Portal** - B2B platform
 
 ---
